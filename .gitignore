@@ -1,0 +1,9 @@
+# Environment variables - NEVER upload these
+backend/.env
+
+# Dependencies - too large to upload
+backend/node_modules/
+frontend/node_modules/
+
+# React build
+frontend/build/
